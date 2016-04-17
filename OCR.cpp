@@ -1,3 +1,11 @@
+/*  
+	OCR (Optical Character Recognition) problem.
+	typically modeled with hidden Markov Model.
+	trying to solve the problem using similar way of Viterbi algorithm.
+
+	TODO: make code working for DP
+*/
+
 #include <iostream>
 #include <string>
 #include <cmath>
